@@ -66,8 +66,35 @@ This unified system is designed specifically to empower smallholder farmers in r
 
 
 
+<h2>References</h2>
 
-
-
-
-<div style="font-size: 0.95em; line-height: 1.5;"> [1] M. O’Grady et al., “Service design for climate-smart agriculture,” *Smart Agricultural Technology*, vol. 1, 2020. [2] D. Budaev et al., “Conceptual design of smart farming solution for precise agriculture,” *Int. J. Design & Nature and Ecodynamics*, vol. 13, no. 3, 2018. [3] J. R. T. Wijaya et al., “Artificial intelligence and audit quality,” *Fokus Ekonomi*, vol. 20, no. 1, 2025. [4] S. Kujawa and G. Niedbała, “Artificial neural networks in agriculture,” *Agriculture*, vol. 11, no. 6, 2021. [5] M. Gardezi et al., “AI in farming: Building trust,” *Agronomy Journal*, vol. 116, no. 3, 2024. [6] M. T. Linaza et al., “AI for sustainable precision agriculture,” *Agronomy*, vol. 11, no. 6, 2021. [7] S. B. Dhal and D. Kar, “AI-driven forecasting,” *Forecasting*, vol. 6, no. 4, 2024. [8] G. Mahibha and P. Balasubramanian, “Impact of AI in agriculture,” *CARJ*, vol. 11, no. 1, 2023. [9] D. Ravichandran et al., “Digital agriculture via IoT and analytics,” *ICSGET Proc.*, vol. 02003, 2024. [10] K. Arya, “ML for smart agriculture,” unpublished, 2024. [11] G. S. Nijaguna et al., “WCM for soil moisture via satellite,” *Remote Sens.*, vol. 15, no. 8, 2023. [12] A. Singh and K. Gaurav, “Soil moisture estimation via DL,” *Scientific Reports*, vol. 13, 2023. [13] V. Sharma et al., “Soil moisture estimation using ML,” *EGU General Assembly*, 2025. [14] M. Hassan and E. Beshr, “Soil cone index prediction,” *Scientific Reports*, vol. 14, 2024. [15] S. Saleem et al., “AgriLeafNet: Multi-crop disease detection,” *Agronomy*, vol. 14, no. 10, 2024. [16] L. Falaschetti et al., “CNN-based plant disease detection,” *HardwareX*, vol. 12, 2022. [17] X. Gong and S. Zhang, “Deep learning for plant diseases,” *Plant Pathol. J.*, vol. 39, no. 4, 2023. [18] J. R. T. Wijaya et al., (duplicate) [19] H. Slimani et al., “AI and drone integration in agriculture,” *IJECE*, vol. 14, no. 1, 2024. [20] G. Mahibha and P. Balasubramanian, (duplicate) [21] P. Patil et al., “Farmers Network,” *IJARCCE*, vol. 14, no. 3, 2025. [22] O. A. Chougule et al., “E-Grampanchayat governance platform,” *IJARSCT*, vol. 5, no. 1, 2025. [23] F. Alam et al., “Bangla NLP and Transformer utility,” *HBKU & DU*, 2025. [24] E. Asolo et al., “AI chatbot DSS for sustainable farming,” *JDFEWS*, vol. 5, no. 1, 2024. [25] A. D. Jones and G. Ejeta, “Agriculture’s role in nutrition,” *Bull. WHO*, vol. 94, 2016. [26] M. F. Aslan et al., “AI techniques in yield estimation,” *Sustainability*, vol. 16, no. 18, 2024. [27] T. T. L. Pham et al., “Digital capabilities in agribusiness,” *EAI Trans. Scalable Info. Systems*, 2024. [28] I. Altman and E. H. Zube, *Public Places and Spaces*, Plenum Press, 1989. </div>
+<div style="font-size: 0.95em; line-height: 1.5;">
+  [1] M. O’Grady et al., “Service design for climate-smart agriculture,” <i>Smart Agricultural Technology</i>, vol. 1, 2020.<br>
+  [2] D. Budaev et al., “Conceptual design of smart farming solution for precise agriculture,” <i>Int. J. Design & Nature and Ecodynamics</i>, vol. 13, no. 3, 2018.<br>
+  [3] J. R. T. Wijaya et al., “Artificial intelligence and audit quality,” <i>Fokus Ekonomi</i>, vol. 20, no. 1, 2025.<br>
+  [4] S. Kujawa and G. Niedbała, “Artificial neural networks in agriculture,” <i>Agriculture</i>, vol. 11, no. 6, 2021.<br>
+  [5] M. Gardezi et al., “AI in farming: Building trust,” <i>Agronomy Journal</i>, vol. 116, no. 3, 2024.<br>
+  [6] M. T. Linaza et al., “AI for sustainable precision agriculture,” <i>Agronomy</i>, vol. 11, no. 6, 2021.<br>
+  [7] S. B. Dhal and D. Kar, “AI-driven forecasting,” <i>Forecasting</i>, vol. 6, no. 4, 2024.<br>
+  [8] G. Mahibha and P. Balasubramanian, “Impact of AI in agriculture,” <i>CARJ</i>, vol. 11, no. 1, 2023.<br>
+  [9] D. Ravichandran et al., “Digital agriculture via IoT and analytics,” <i>ICSGET Proc.</i>, vol. 02003, 2024.<br>
+  [10] K. Arya, “ML for smart agriculture,” unpublished, 2024.<br>
+  [11] G. S. Nijaguna et al., “WCM for soil moisture via satellite,” <i>Remote Sens.</i>, vol. 15, no. 8, 2023.<br>
+  [12] A. Singh and K. Gaurav, “Soil moisture estimation via DL,” <i>Scientific Reports</i>, vol. 13, 2023.<br>
+  [13] V. Sharma et al., “Soil moisture estimation using ML,” <i>EGU General Assembly</i>, 2025.<br>
+  [14] M. Hassan and E. Beshr, “Soil cone index prediction,” <i>Scientific Reports</i>, vol. 14, 2024.<br>
+  [15] S. Saleem et al., “AgriLeafNet: Multi-crop disease detection,” <i>Agronomy</i>, vol. 14, no. 10, 2024.<br>
+  [16] L. Falaschetti et al., “CNN-based plant disease detection,” <i>HardwareX</i>, vol. 12, 2022.<br>
+  [17] X. Gong and S. Zhang, “Deep learning for plant diseases,” <i>Plant Pathol. J.</i>, vol. 39, no. 4, 2023.<br>
+  [18] J. R. T. Wijaya et al., (duplicate)<br>
+  [19] H. Slimani et al., “AI and drone integration in agriculture,” <i>IJECE</i>, vol. 14, no. 1, 2024.<br>
+  [20] G. Mahibha and P. Balasubramanian, (duplicate)<br>
+  [21] P. Patil et al., “Farmers Network,” <i>IJARCCE</i>, vol. 14, no. 3, 2025.<br>
+  [22] O. A. Chougule et al., “E-Grampanchayat governance platform,” <i>IJARSCT</i>, vol. 5, no. 1, 2025.<br>
+  [23] F. Alam et al., “Bangla NLP and Transformer utility,” <i>HBKU & DU</i>, 2025.<br>
+  [24] E. Asolo et al., “AI chatbot DSS for sustainable farming,” <i>JDFEWS</i>, vol. 5, no. 1, 2024.<br>
+  [25] A. D. Jones and G. Ejeta, “Agriculture’s role in nutrition,” <i>Bull. WHO</i>, vol. 94, 2016.<br>
+  [26] M. F. Aslan et al., “AI techniques in yield estimation,” <i>Sustainability</i>, vol. 16, no. 18, 2024.<br>
+  [27] T. T. L. Pham et al., “Digital capabilities in agribusiness,” <i>EAI Trans. Scalable Info. Systems</i>, 2024.<br>
+  [28] I. Altman and E. H. Zube, <i>Public Places and Spaces</i>, Plenum Press, 1989.<br>
+</div>
