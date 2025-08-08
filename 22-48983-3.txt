@@ -1,0 +1,325 @@
+		
+American International University-Bangladesh (AIUB)
+Department of Computer Science
+Faculty of Science & Technology (FST)
+
+AgriX: Revolutionizing Agriculture with AI, Satellite Data, and Digital Marketplaces
+     A Software Engineering Project Submitted 
+     By 
+
+Semester: Summer_24_25
+Section: HGroup Number:SNStudent NameStudent IDContribution (CO3+CO4)Individual
+Marks1S. M MEHEDI HASAN22-48983-32ANIKA TAHMINA CHOWDHURY22-48949-33MD. SHOHAIB ISLAM22-49009-34SYMON ISLAM PARASH22-47340-2
+      The project will be Evaluated for the following Course Outcomes
+
+CO3: Select appropriate software engineering models, project management roles and their associated skills for the complex software engineering project and evaluate the sustainability of developed software, taking into consideration the societal and environmental aspectsTotal MarksAppropriate Process Model Selection and Argumentation with Evidence         [5 Marks]                    Evidence of Argumentation regarding process model selection                         [5Marks]Analysis the impact of societal, health, safety, legal and cultural issues     [5Marks]Submission, Defense, Completeness, Spelling, grammar and Organization of the Project report                                                                          [5Marks]CO4: Develop project management plan to manage software engineering projects following the principles of engineering management and economic decision processTotal MarksDevelop the project plan, its components of the proposed software products[5Marks]Identify all the activities/tasks related to project management and categorize them within the WBS structure. Perform detailed effort estimation correspond with the WBS and schedule the activities with resources[5Marks]Identify all the potential risks in your project and prioritize them to overcome these risk factors. [5Marks]
+
+
+Description of Student's Contribution in the Project work
+
+Student Name:  
+Student ID: 
+Contribution in Percentage (%): 
+Contribution in the Project:
+* Contribution Description 1
+* Contribution Description 2
+
+
+___________________
+Signature of the Student
+Student Name:                                        
+Student ID: 
+Contribution in Percentage (%): 
+Contribution in the Project:
+* Contribution Description 1
+* Contribution Description 2
+
+
+___________________
+Signature of the Student
+Student Name:                                        
+Student ID: 
+Contribution in Percentage (%): 
+Contribution in the Project:
+* Contribution Description 1
+* Contribution Description 2
+
+
+___________________
+Signature of the Student
+Student Name:                                        
+Student ID: 
+Contribution in Percentage (%): 
+Contribution in the Project:
+* Contribution Description 1
+* Contribution Description 2
+
+
+___________________
+Signature of the Student
+Student Name:                                        
+Student ID: 
+Contribution in Percentage (%): 
+Contribution in the Project:
+* Contribution Description 1
+* Contribution Description 2
+
+
+___________________
+Signature of the Student
+PROJECT PROPOSAL
+
+.1 Background to the Problem
+Agriculture remains the backbone of Bangladesh's economy, with a significant portion of the population relying on it for their livelihood. However, despite being a vital sector, many farmers still face critical challenges such as crop disease misdiagnosis, lack of access to timely information, reliance on middlemen, and poor planning due to unpredictable weather and soil degradation.
+A root cause of these problems lies in the lack of digital infrastructure and technology tailored to small and mid-scale farmers. While mobile usage is widespread in rural areas, there remains a significant gap in agricultural tools that integrate AI, weather forecasting, disease detection, and market access in a way that is user-friendly, bilingual (Bangla/English/Banglish), and locally relevant.
+This problem is urgent and essential to address because it directly affects food security, income distribution, economic growth, and the well-being of millions of farmers across Bangladesh.
+.2 Solution to the Problem
+o Describe what is your project/thesis objective? What solutions are you going to provide to solve the above-mentioned problems?
+
+AgriX aims to:
+
+* Empower farmers with AI-driven agricultural insights
+* Simplify crop disease detection through smartphone cameras
+* Use satellite imagery for moisture/salinity detection and crop recommendation
+* Provide early crop planning based on weather and soil data
+* Facilitate direct farmer-to-buyer transactions
+* Support live community engagement and agricultural event sharing
+
+o What are the solutions you are going to propose to deal with the problem? why is this solution is particularly appropriate to solve the problem? Is the solution feasible to the meet the business objective?
+
+AgriX takes a holistic and smart approach to agriculture using state-of-the-art technologies such as:
+* AI-based image processing for disease detection (leaf/avian-related)
+* Satellite imagery and geospatial data for analyzing soil moisture and salinity (feasible via platforms like Google Earth Engine or Sentinel Hub)
+* NLP-based bilingual AI chatbot to break language barriers
+* Weather API integration for real-time data analysis and crop planning
+
+The solution is technically feasible with current APIs, remote sensing technology, open datasets, and TensorFlow or PyTorch-based AI models for disease detection. It aligns perfectly with Bangladesh's Digital Agriculture mission.
+
+o Describe the basic functionalities of your proposed solution that makes the best use of state-of-art technology and produced a significant result that is likely to have a major impact on societal, health, safety, legal and cultural issues. Provide a deep insight that demonstrate and presents a creative solution to the real-life problem.
+
+Our proposed solution integrates multiple advanced technologies to address real-life agricultural challenges in Bangladesh. It creatively leverages artificial intelligence, satellite imaging, natural language processing, and geolocation services to deliver impactful results across social, health, safety, legal, and cultural domains. Below is a detailed insight into its core functionalities:
+* Secure Sign-In System:
+A robust and user-friendly registration and authentication mechanism ensures data privacy and security for farmers. This builds trust and aligns with global data protection practices.
+* Satellite Imagery Analysis for Smart Crop Planning:
+Harnessing state-of-the-art satellite data, the system analyzes soil moisture, salinity, and vegetation indices to recommend optimal crop types. This enables data-driven decision-making for sustainable farming and reduces dependency on traditional guesswork.
+* AI-Based Disease Detection:
+Using computer vision and deep learning, the mobile camera scans crop leaves and poultry fecal matter to detect common diseases. Early diagnosis empowers farmers to act promptly, improving crop yield and poultry health while reducing the misuse of antibiotics and pesticides-supporting health and food safety.
+* Multilingual AI Chatbot (Bangla, English, Banglish):
+An NLP-powered virtual assistant provides 24/7 support on farming queries, ensuring inclusivity for rural farmers regardless of language proficiency. It also helps bridge cultural and educational gaps in accessing agricultural information.
+* Seasonal Early Crop Planner:
+By combining real-time weather forecasts with soil health metrics, this planner recommends suitable crops for upcoming seasons. It reduces crop failure risks and aligns farming practices with changing climatic conditions.
+* Farmer-to-Buyer (B2B) Marketplace:
+A direct platform for selling agricultural products eliminates intermediaries, ensuring fair pricing and transparency. This supports economic empowerment and reduces legal disputes over unfair trade practices.
+* Live Location Map with Agricultural Events:
+An opt-in feature that shares farmers' locations and nearby agricultural fairs, workshops, or training programs. This fosters community engagement, knowledge sharing, and cultural inclusivity across regions.
+
+o Describe the target group of users of your solution? And how they will be benefited by your proposed solution to the problem? 
+
+Our proposed solution is designed with a strong focus on user-centric innovation, addressing the needs of both primary and secondary stakeholders in the agricultural ecosystem.
+Primary Users:
+* Rural Farmers in Bangladesh
+Particularly those with access to smartphones, this group represents the backbone of the country's agricultural economy. Many farmers lack access to timely, reliable information, and our solution aims to bridge this gap through smart technologies and localized support.
+Secondary Users:
+* Agricultural Buyers - Benefit from a streamlined, transparent B2B platform that connects them directly to producers.
+* Government Planners - Gain access to real-time agricultural data for policy-making and food security management.
+* NGOs and Extension Officers - Use the platform to provide targeted interventions, training, and support to farming communities.
+Key Benefits:
+* Increased Agricultural Productivity
+Smart planning tools and AI-based disease detection enable farmers to make data-driven decisions, maximizing yield and efficiency.
+* Reduced Losses from Disease and Climate Risk
+Early detection of crop and poultry diseases, combined with weather-based crop recommendations, minimizes losses and enhances food security.
+* Lower Costs by Eliminating Intermediaries
+The integrated B2B marketplace enables direct sales, increasing farmer income and reducing exploitation by middlemen.
+* Empowered Farming Communities
+Through knowledge sharing, live event updates, and multilingual support, the platform builds a connected, informed, and resilient agricultural community.
+
+o Describe the contribution of your project to the development of scientific results that is identified and well documented.
+
+The proposed solution, AgriX, has been carefully designed to address real-world agricultural challenges through a well-identified and thoroughly documented technological approach. It leverages cutting-edge advancements to bridge the gap between modern AI technologies and the grassroots needs of rural farming communities.
+
+AgriX significantly contributes to the practical application of emerging technologies in agriculture:
+
+* Computer Vision - Enables real-time crop and disease diagnostics using smartphone cameras and visual inputs.
+* Natural Language Processing (NLP) - Supports multilingual interaction (Bangla, English, and Banglish), making agricultural advice accessible to non-technical users.
+* Remote Sensing - Uses satellite imagery to analyze soil moisture, salinity, and vegetation index for informed crop planning.
+* AI for Decision Support - Integrates AI models that assist in early crop planning, disease prediction, and automated farming advice.
+
+Furthermore, this project lays a strong foundation for future academic research in fields such as:
+
+* Precision Agriculture - Enhancing resource efficiency and yield through targeted interventions.
+* Agro-Market Economics - Studying the impact of B2B marketplaces on farmer income and market dynamics.
+* AI-Driven Rural Development - Exploring scalable solutions to uplift rural livelihoods through smart technologies.
+
+
+
+o Provide a literature review on what are the other studies that have discussed the same topic of yours in the literature and explain how your study has utilized and extended the problems of existing studies.
+
+Literature review
+
+Recent research highlights increased use of AI, IoT, and data models in smart farming, targeting real-time monitoring, forecasting, and automation for better yields and efficiency.
+
+O'Grady et al. designed a climate-smart service integrating global weather data for farming [1], improving forecasts but facing data quality and IP challenges.
+Budaev et al. developed a multi-agent AI system using NDVI and soil data for real-time farm planning, improving yield and transparency [2].
+Wijaya et al. applied AI for audit risk prediction, inspiring agricultural models [3], [18].
+Kujawa used RBF neural networks to detect grain pests through physical features [4].
+Gardezi applied ML and explainable AI to enhance farm decisions and reduce environmental harm [5].
+Linaza enabled autonomous farm robots with SLAM, stereo vision, and deep learning [6].
+
+Dhal predicted crop yields using LSTM, ARIMA, and Random Forests [7].
+Mahibha used drone images and AI for early crop disease detection [8].
+Ravichandran built SAgric-IoT using CNNs for greenhouse monitoring and irrigation control [9].
+Arya combined sensor, drone, and satellite data with ML models to optimize farming [10].
+
+Soil moisture studies improved with Nijaguna fusing satellite data and Bi-GRU/CNNs [11], Singh estimating moisture with ANN and Sentinel data [12], Sharma showing LSTM's superior prediction [13], and Hassan using XGBoost and SVR for soil compaction [14].
+
+Leaf disease detection advanced via Saleem's AgriLeafNet with NASNetMobile and few-shot learning [15], Falaschetti's lightweight CNN for portable detection [16], and Gong's Faster R-CNN and YOLOv3 for apple diseases [17].
+
+Slimani's bibliometric review highlighted AI-drone growth in agriculture [19], while Mahibha emphasized AI's role in research and tech adoption [20].
+
+Digital platforms emerged, such as Patil's AI-powered marketplace and advisory system widely adopted by farmers [21], Chougule's AI, speech recognition, and blockchain governance platform in native languages [22], Alam's rural service delivery platform [23], and Asolo's chatbot DSS for sustainable farming advice [24].
+
+Fatih Aslan applied AI techniques including CNNs and ensemble models to Sentinel-2 satellite data, achieving high-accuracy crop yield predictions across multiple crops (RMSE as low as 0.047-0.62 t/ha) [26].
+Thi Tuan Linh Pham developed farmers' digital capabilities for e-commerce adoption in Vietnam's green tea sector, identifying four key digital skills boosting platform adoption for a B2B marketplace [27].
+
+Altman and Zube studied public spaces using observations and interviews to inform planning. Their findings help improve live event management and community participation [28]. This can support localized farmer event sharing in rural areas.
+
+These systems mostly address isolated tasks and often lack integration and local language support. Our proposed solution advances this by combining detection, advisory, soil analysis, and marketplace features with localized chatbot assistance, event sharing in rural areas. and real-time data fusion in a unified tool.
+
+
+Provide a description of all the existing studies presented in the problem area. What are the existing software solutions (for project) available to solve the aforementioned problems?
+
+Recent studies in smart agriculture demonstrate significant advances using AI, IoT, and data-driven models to address challenges such as real-time monitoring, crop disease detection, yield prediction, soil analysis, and farm automation. For example:
+
+Climate-smart agriculture: O'Grady et al. developed a global weather-data-integrated forecasting system to support farm decisions, though facing data quality and intellectual property issues [1].
+
+Multi-agent AI decision systems: Budaev et al. created a system using satellite and soil data for adaptive resource planning, increasing yield and transparency [2].
+
+AI-based crop health and yield prediction: Studies like Ravichandran's SAgric-IoT system (using CNNs for disease detection) [9], Mahibha's drone image analysis for early disease detection [8], and Fatih Aslan's satellite-data-driven yield prediction with ensemble AI models [26] show promising results with high accuracy.
+
+Soil moisture and quality monitoring: Multiple approaches leveraging satellite data fused with deep learning models (LSTM, Bi-GRU, XGBoost) have enhanced soil condition predictions [11,12,13,14].
+
+Plant disease detection: Lightweight CNNs and advanced models like NASNetMobile and YOLOv3 have been applied for early, portable disease identification [15,16,17].
+
+Digital platforms: Patil's AI-powered marketplace [21], Chougule's native language blockchain governance system [22], and Asolo's AI chatbot decision support system [24] are practical platforms empowering farmers with advisory services, market access, and localized language support.
+
+Despite these advances, existing solutions often focus on isolated tasks-forecasting, disease detection, or market connection-and rarely integrate these functionalities into a unified tool that supports local languages, rural event sharing, and real-time data fusion.
+
+ What are the existing software solutions available to solve the aforementioned problem? And how is your proposed solution going to extend them in providing more benefits to the users?
+Existing software solutions include:
+
+AI-based crop monitoring and disease detection systems (e.g., SAgric-IoT [9], AgriLeafNet [15]).
+
+Climate-smart advisory platforms integrating weather data for predictive analytics (e.g., O'Grady's system [1]).
+
+Multi-agent decision-support systems for adaptive resource planning (Budaev's AI ecosystem [2]).
+
+Digital marketplaces and rural governance platforms enabling farmer-buyer connections and advisory in native languages (Patil [21], Chougule [22]).
+
+Soil monitoring tools using satellite data and ML models for irrigation and crop management (Nijaguna [11], Singh [12]).
+
+How our proposed solution extends these:
+Our system is a unified, all-in-one smart farming platform that combines the strengths of these isolated systems into a seamless, user-friendly tool. It integrates:
+
+Real-time detection and advisory: Crop disease detection powered by lightweight AI models plus AI-driven, localized chatbot advice for sustainable farming practices.
+
+Comprehensive soil and environmental analysis: Using multi-source data fusion for precise soil moisture and quality monitoring.
+
+Marketplace and event sharing: A bilingual farmer marketplace coupled with a community event sharing feature tailored for rural areas, encouraging social cohesion and knowledge exchange.
+
+Localized language support: Unlike many platforms, our solution includes native language capabilities, enhancing accessibility and user adoption in rural contexts.
+
+Real-time data fusion: Combines satellite, drone, sensor, and weather data dynamically for holistic farm management.
+
+By bridging these features into one integrated ecosystem, our solution empowers farmers with actionable insights, enhances digital inclusivity, and drives better economic and environmental outcomes all in a single platform, because farmers shouldn't have to juggle apps like a circus performer just to grow their crops.
+
+
+SOFTWARE DEVELOPMENT LIFE CYCLE
+.3 Process Model
+o Provide an analysis regarding the nature and environment of the software that you are going to develop and select the best suitable method(s) to develop the software.
+AgriX is an AI-powered, highly interactive agricultural platform designed to serve millions of rural farmers in Bangladesh. The software integrates complex AI models (computer vision for disease detection, NLP for bilingual chatbots), satellite data processing, and a real-time marketplace all tailored for mobile use in a resource-constrained environment with intermittent internet access.
+This software operates in a dynamic environment where:
+1. Requirements may evolve quickly due to changing weather data sources, crop patterns, or user feedback.
+2. Continuous delivery of new AI models and features is essential to maintain relevance.
+3. User experience must be simple, bilingual, and robust against connectivity hiccups.
+4. Multiple components (disease detection, weather forecasting, marketplaces) must interact seamlessly.
+Such a scenario demands a flexible, iterative, and highly collaborative development process that embraces change and continuous improvement.
+
+o Present your arguments based on your analysis about why your selected method(s) is the best choice among all other methods to develop your proposed software.
+Given these factors, Scrum stands out as the ideal development process model for AgriX. Why? Because:
+1. Iterative and Incremental Delivery: Scrum's short sprints (2-4 weeks) allow rapid prototyping, testing, and user feedback integration crucial for evolving AI models and complex features.
+2. Flexibility: Scrum embraces changing requirements, enabling the team to pivot or refine features based on real farmer feedback or newly available satellite data.
+3. Cross-functional Collaboration: Scrum fosters close collaboration between developers, AI researchers, domain experts, and farmers (product owners), ensuring the software stays user-centric and technically sound.
+4. Transparency and Continuous Improvement: Regular sprint reviews and retrospectives promote constant learning and process adjustment, critical for a cutting-edge AI-Agri product.
+5. Risk Mitigation: Early and frequent deliveries reduce risks, catching potential issues before costly downstream impact.
+
+o Presents sufficient amount of evidence to support argument for your model selection in developing your proposed solution.
+1. Real-world success: Numerous AI and data-driven projects in agriculture and tech adopt Scrum or Agile methods because AI research demands experimentation, iterative refinement, and quick integration of user feedback.
+2. Complex domain: The agricultural environment changes seasonally, and government policies or market dynamics may shift mid-development, which Scrum accommodates nimbly.
+3. Multi-disciplinary teams: Scrum thrives when teams have diverse skill sets - software engineers, data scientists, UX designers, and domain experts - all working toward shared goals.
+4. Early delivery of usable features: AgriX can deploy early AI disease detectors or chatbots as Minimum Viable Products (MVPs) to farmers for validation and enhancement rather than waiting months or years for a "perfect" product.
+5. Continuous stakeholder involvement: Product owners (agricultural experts, farmer representatives) are continuously engaged, ensuring the product reflects real needs and local nuances.
+.4 Project Role Identification and Responsibilities
+S. M MEHEDI HASAN* Roles: Scrum Master, Scrum Team Member
+* Responsibilities:
+* As Scrum Master: Facilitates Scrum ceremonies, removes team impediments, ensures adherence to Scrum practices, and promotes agile values.
+* As Scrum Team: Participates in sprint planning, daily stand-ups, development, testing, and sprint reviews alongside team collaboration.
+ANIKA TAHMINA CHOWDHURY* Roles: Scrum Team Member, Customer
+* Responsibilities:
+* As Scrum Team: Participates in sprint planning, daily stand-ups, development, testing, and sprint reviews alongside team collaboration.
+* As Customer: Defines requirements, provides feedback on deliverables, and validates functionality to ensure user satisfaction.
+MD. SHOHAIB ISLAM* Roles: Scrum Team Member, Product Owner
+* Responsibilities:
+* As Scrum Team: Participates in sprint planning, daily stand-ups, development, testing, and sprint reviews alongside team collaboration.
+* As Product Owner: Owns and prioritizes the Product Backlog, communicates customer needs, and ensures the development team builds the right product.
+SYMON ISLAM PARASH* Roles: Scrum Team Member, Management
+* Responsibilities:
+* As Scrum Team: Participates in sprint planning, daily stand-ups, development, testing, and sprint reviews alongside team collaboration.
+* As Management: Oversees scheduling, monitors team progress, and helps maintain alignment with project goals.
+
+References:
+
+[1] M. O'Grady, D. Langton, F. Salinari, P. Daly, and G. O'Hare, "Service design for climate-smart agriculture," Smart Agricultural Technology, vol. 1, pp. 100001, Jul. 2020. [Online]. Available: https://doi.org/10.1016/j.atech.2020.100001
+[2] D. Budaev, A. Lada, E. Simonova, P. Skobelev, V. Travin, O. Yalovenko, G. Voshchuk, and A. Zhilyaev, "Conceptual design of smart farming solution for precise agriculture," Int. J. of Design & Nature and Ecodynamics, vol. 13, no. 3, pp. 307-314, 2018, doi: 10.2495/DNE-V13-N3-307-314.
+[3] J. R. T. Wijaya, I. Prasetyo, D. N. Rahmatika, and D. Indriasih, "Artificial intelligence and audit quality: An empirical literature review from Scopus database," Fokus Ekonomi: Jurnal Ilmiah Ekonomi, vol. 20, no. 1, pp. 61-70, 2025. [Online]. Available: http://ejournal.stiepena.ac.id/index.php/fe
+[4] S. Kujawa and G. Niedbala, "Artificial neural networks in agriculture," Agriculture, vol. 11, no. 6, p. 497, May 2021. [Online]. Available: https://doi.org/10.3390/agriculture11060497
+[5] M. Gardezi, B. Joshi, D. M. Rizzo, M. Ryan, E. Prutzer, S. Brugler, and A. Dadkhah, "Artificial intelligence in farming: Challenges and opportunities for building trust," Agronomy Journal, vol. 116, no. 3, pp. 1217-1228, May 2024. [Online]. Available: https://doi.org/10.1002/agj2.21353
+[6] M. T. Linaza, J. Posada, J. Bund, P. Eisert, M. Quartulli, J. Döllner, A. Pagani, I. G. Olaizola, A. Barriguinha, T. Moysiadis, and L. Lucat, "Data-driven artificial intelligence applications for sustainable precision agriculture," Agronomy, vol. 11, no. 6, p. 1227, Jun. 2021. [Online]. Available: https://doi.org/10.3390/agronomy11061227
+[7] S. B. Dhal and D. Kar, "Transforming agricultural productivity with AI-driven forecasting: Innovations in food security and supply chain optimization," Forecasting, vol. 6, no. 4, pp. 925-951, Oct. 2024. [Online]. Available: https://doi.org/10.3390/forecast6040046
+[8] G. Mahibha and P. Balasubramanian, "Impact of artificial intelligence in agriculture with special reference to agriculture information research," Current Agriculture Research Journal, vol. 11, no. 1, 2023. [Online]. Available: http://dx.doi.org/10.12944/CARJ.11.1.25
+[9] D. Ravichandran, S. Dhanabalan, A. Santhanakrishnan, S. Sarveshwaran, and R. Yogesh, "Digital agriculture: Harnessing IoT and data analytics for smart farming solutions," in Proc. ICSGET 2024, vol. 02003, 2024.
+[10] K. Arya, "Machine learning for smart agriculture: Use of ML in precision farming, crop yield prediction, and resource optimization," unpublished, Sep. 28, 2024.
+[11] G. S. Nijaguna, D. R. Manjunath, M. Abouhawwash, S. S. Askar, D. K. Basha, and J. Sengupta, "Deep learning-based improved WCM technique for soil moisture retrieval with satellite images," Remote Sens., vol. 15, no. 8, p. 2005, Apr. 2023. [Online]. Available: https://doi.org/10.3390/rs15082005
+[12] A. Singh and K. Gaurav, "Deep learning and data fusion to estimate surface soil moisture from multi-sensor satellite images," Scientific Reports, vol. 13, no. 1, pp. -, 2023. [Online]. Available: https://doi.org/10.1038/s41598-023-28939-9
+[13] V. Sharma, S. Barbhuiya, and V. Gupta, "Enhancing soil moisture estimation through machine learning models and remote sensing data," presented at the EGU General Assembly 2025, Vienna, Austria, Jul. 2025, Paper EGU25-20070. [Online]. Available: https://doi.org/10.5194/egusphere-egu25-20070
+[14] M. Hassan and E. Beshr, "Predicting soil cone index and assessing suitability for wind and solar farm development using machine learning techniques," Scientific Reports, vol. 14, no. 1, 2024. [Online]. Available: https://doi.org/10.1038/s41598-024-52702-3
+[15] S. Saleem, M. I. Sharif, M. I. Sharif, M. Z. Sajid, and F. Marinello, "Comparison of Deep Learning Models for Multi-Crop Leaf Disease Detection with Enhanced Vegetative Feature Isolation and Definition of a New Hybrid Architecture," Agronomy, vol. 14, no. 10, p. 2230, Sep. 2024, doi: 10.3390/agronomy14102230.
+[16] L. Falaschetti, L. Manoni, D. Di Leo, D. Pau, V. Tomaselli, and C. Turchetti, "A CNN-based image detector for plant leaf diseases classification," HardwareX, vol. 12, p. e00363, 2022, doi: 10.1016/j.ohx.2022.e00363.
+[17]  X. Gong and S. Zhang, "An Analysis of Plant Diseases Identification Based on Deep Learning Methods," Plant Pathol. J., vol. 39, no. 4, pp. 319-334, 2023, doi: 10.5423/PPJ.OA.02.2023.0034.
+[18] J. R. T. Wijaya, I. Prasetyo, D. N. Rahmatika, and D. Indriasih, "Artificial Intelligence and Audit Quality: An Empirical Literature Review from Scopus Database," Fokus Ekonomi: Jurnal Ilmiah Ekonomi, vol. 20, no. 1, pp. 61, 2025. [Online]. Available: http://ejournal.stiepena.ac.id/index.php/fe
+[19] H. Slimani, J. El Mhamdi, and A. Jilbab, "Assessing the advancement of artificial intelligence and drones' integration in agriculture through a bibliometric study," Int. J. Electr. Comput. Eng. (IJECE), vol. 14, no. 1, pp. 878-890, Feb. 2024, doi: 10.11591/ijece.v14i1.pp878-890.
+[20] G. Mahibha and P. Balasubramanian, "Impact of Artificial Intelligence in Agriculture with Special Reference to Agriculture Information Research," Current Agriculture Research Journal, vol. 11, no. 1, pp. 287-296, 2023, doi: 10.12944/CARJ.11.1.25.
+[21] P. Patil, S. Hattigote, S. Bhatungade, and A. L. Suryawanshi, "Farmers Network," International Journal of Advanced Research in Computer and Communication Engineering, vol. 14, no. 3, pp. 591-597, Mar. 2025, doi: 10.17148/IJARCCE.2025.14380.
+[22] O. A. Chougule, S. S. Shinde, S. P. Kamble, J. S. Kamble, and T. B. Devkate, "E-Grampanchayat: Empowering Rural Governance with Native Language Technology," International Journal of Advanced Research in Science, Communication and Technology (IJARSCT), vol. 5, no. 1, Feb. 2025, doi: 10.48175/IJARSCT-23226.
+[23] F. Alam, M. A. Hasan, T. Alam, A. Khan, J. Tajrin, N. Khan, and S. A. Chowdhury,
+"A Review of Bangla Natural Language Processing Tasks and the Utility of Transformer Models,"
+Qatar Computing Research Institute, HBKU, Qatar & Cognitive Insight Limited, Bangladesh & BJIT Limited, Bangladesh & Dhaka University, 2025. [Online].
+[24] E. Asolo, I. Gil-Ozoudeh, and C. Ejimuda,
+"AI-Powered Decision Support Systems for Sustainable Agriculture Using AI-Chatbot Solution,"
+JDFEWS, vol. 5, no. 1, pp. 1-10, 2024. [Online]. Available: https://github.com/iamchibu/AI-ChatBot-Powered-Decision-Support-Systems-for-Sustainable-Argiculture.git
+[25] A. D. Jones and G. Ejeta,
+"A new global agenda for nutrition and health: the importance of agriculture and food systems,"
+Bull. World Health Organ., vol. 94, pp. 228-229, 2016, doi: 10.2471/BLT.15.164509.
+[26] [1] M. F. Aslan, K. Sabanci, and B. Aslan, "Artificial Intelligence Techniques in Crop Yield Estimation Based on Sentinel-2 Data: A Comprehensive Survey," *Sustainability*, vol. 16, no. 18, p. 8277, Sep. 2024, doi: 10.3390/su16188277.
+[27] T. T. L. Pham, H. Taherdoost, and T.-V. Le, "Scalable Information Systems for Agribusiness: Developing Farmers' Digital Capabilities for E-commerce Platform Adoption," EAI Endorsed Transactions on Scalable Information Systems, vol. -, no. -, pp. -, Nov. 2024, doi: 10.4108/eetsis.6068.
+[28] I. Altman and E. H. Zube, Public Places and Spaces, vol. 10, Human Behavior and Environment series. New York, NY, USA: Plenum Press, 1989. doi: 10.1007/978-1-4684-5601-1.
+
+
+
+
+
+
+00(c) MMH
+
+Page 2 of 2
+
+
